@@ -6,5 +6,5 @@ Bem-vindo ao repositório "Estudos Java"! Este repositório é um registro da mi
 <ul>
 <li>Documentar o progresso no aprendizado da linguagem Java.</li>
 <li>Compartilhar soluções de problemas, exemplos de código e pequenos projetos.</li>
-<li>Servir como uma referência para futuros estudos e para a comunidade de desenvolvedores Java.</li>
+<li>Servir como uma das referências para futuros estudos e para a comunidade de desenvolvedores Java.</li>
 </ul>
